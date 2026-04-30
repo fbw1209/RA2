@@ -6,7 +6,7 @@
 ## 📦 下载方式
 
 ### 首选：GitHub Release（推荐）
-👉 [点击此处下载最新版安装包](https://github.com/你的用户名/你的仓库名/releases/latest)  
+👉 [点击此处下载最新版安装包](https://github.com/fbw1209/RA2/releases/latest)  
 （如果下载慢，请看下面的“加速下载”说明）
 
 ### 加速下载（国内用户）
